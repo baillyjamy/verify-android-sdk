@@ -51,10 +51,5 @@
       <artifactId>viewbinding</artifactId>
       <version>8.2.2</version>
     </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>viewbinding</artifactId>
-      <version>8.2.2</version>
-    </dependency>
   </dependencies>
 </project>
