@@ -10,7 +10,6 @@
   <groupId>io.synaps</groupId>
   <artifactId>verify-sdk</artifactId>
   <version>0.0.2</version>
-  <packaging>aar</packaging>
   <repositories>
     <repository>
       <id>google</id>
